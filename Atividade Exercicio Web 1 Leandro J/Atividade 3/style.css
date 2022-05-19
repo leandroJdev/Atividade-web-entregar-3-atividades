@@ -1,0 +1,41 @@
+
+table{
+    text-align: center;
+    border:1px solid black;
+    width: 600px;
+
+	margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:arial;
+    font-size: 12px;
+    font-weight: bolder;
+    
+}
+caption{
+    background-color:#0D5188;;
+    color: white;
+    text-align: center;
+
+}
+th{
+   background-color: #66C5E3 ; 
+
+}
+
+.posi{
+    background-color: silver;
+    font-weight: normal !important;
+    width: 10%;
+}
+td{
+    background-color: #C7E7F3;
+}
+.semneg{
+    font-weight: normal;
+    width: 15%;
+}
+.cidades{
+    color: #0D5188;
+    
+}

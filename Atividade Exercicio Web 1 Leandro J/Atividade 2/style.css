@@ -1,0 +1,21 @@
+
+
+body{
+    background-color: rgb(194, 255, 255);
+    text-align: center;
+}
+h1{
+    font-family: tahoma,verdana, Arial, sans-serif;
+}
+
+h1,h2,h3 {
+    color: red;
+}
+
+li {
+    font-size: 10px;
+}
+
+img {
+    border-radius: 100px;
+}
